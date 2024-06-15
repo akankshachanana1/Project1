@@ -342,7 +342,7 @@ const DesktopView: NextPage = () => {
         className="absolute top-[3947px] left-[-156px] w-[1598px] h-[660px] bg-cover bg-no-repeat bg-[top]"
         controls
       >
-        <source src />
+        
       </video>
       <section className="absolute top-[3947px] left-[-77px] [background:linear-gradient(90.45deg,_rgba(194,_39,_142,_0.51),_rgba(15,_15,_15,_0))] w-[3928px] h-[660px]" />
       <img
